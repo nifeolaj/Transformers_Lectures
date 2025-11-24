@@ -11,6 +11,7 @@ This repository contains pedagogical materials for understanding the foundationa
 - **Autoencoders** - Dimensionality reduction and representation learning
 - **Word Embeddings** - From Word2Vec to modern embeddings
 - **Historical Evolution** - From Hopfield networks to attention mechanisms
+- **Graph Neural Networks** - Learning on graph-structured data
 
 ## 🗂️ Repository Structure
 
@@ -38,6 +39,9 @@ Session_2/
 Session_3/
 ├── nanoGPT_complete.ipynb                 # Complete GPT implementation from scratch
 └── chinchilla_paper.pdf                   # Training compute-optimal large language models
+
+Session_4/
+└── Graph_Neural_Nets.pdf                  # Graph Neural Networks lecture notes
 ```
 
 ## 🚀 Getting Started
@@ -139,6 +143,9 @@ Session_3/
 
 ### Session 3 Materials
 - **NanoGPT Complete** - Complete GPT implementation from scratch
+
+### Session 4 Materials
+- **Graph Neural Networks** - Lecture notes on graph neural networks
 
 ## 🛠️ Technical Details
 
